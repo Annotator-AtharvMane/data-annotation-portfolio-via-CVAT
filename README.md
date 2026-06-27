@@ -95,7 +95,7 @@ https://drive.google.com/drive/folders/1rpk5m2GNcqoT_dbw_HurfDIqB3MRvQvp?usp=dri
 - [screenshot.31](screenshots/bounding_sc31.png)
 
 
-### 2️⃣ Segmentation (14 Images)
+### 2️⃣ Polygon (14 Images)
 Includes:
 - JSON format annotations (.txt)
 - Original images
@@ -103,20 +103,20 @@ Includes:
 
 Folders:   
 #### 🖼️ Raw_Images
-- [Segmentation_image1.jpg](images/segment_img01.jpg)
-- [Segmentation_image2.jpg](images/segment_img02.jpg)
-- [Segmentation_image3.jpg](images/segment_img03.jpg)
-- [Segmentation_image4.jpg](images/segment_img04.jpg)
-- [Segmentation_image5.jpg](images/segment_img05.jpg)
-- [Segmentation_image6.jpg](images/segment_img06.jpg)
-- [Segmentation_image7.jpg](images/segment_img07.jpg)
-- [Segmentation_image8.jpg](images/segment_img08.jpg)
-- [Segmentation_image9.jpg](images/segment_img09.jpg)
-- [Segmentation_image10.jpg](images/segment_img10.jpg)
-- [Segmentation_image11.jpg](images/segment_img11.jpg)
-- [Segmentation_image12.jpg](images/segment_img12.jpg)
-- [Segmentation_image13.jpg](images/segment_img13.jpg)
-- [Segmentation_image14.jpg](images/segment_img14.jpg)
+- [Polygon_image1.jpg](images/segment_img01.jpg)
+- [Polygon_image2.jpg](images/segment_img02.jpg)
+- [Polygon_image3.jpg](images/segment_img03.jpg)
+- [Polygon_image4.jpg](images/segment_img04.jpg)
+- [Polygon_image5.jpg](images/segment_img05.jpg)
+- [Polygon_image6.jpg](images/segment_img06.jpg)
+- [Polygon_image7.jpg](images/segment_img07.jpg)
+- [Polygon_image8.jpg](images/segment_img08.jpg)
+- [Polygon_image9.jpg](images/segment_img09.jpg)
+- [Polygon_image10.jpg](images/segment_img10.jpg)
+- [Polygon_image11.jpg](images/segment_img11.jpg)
+- [Polygon_image12.jpg](images/segment_img12.jpg)
+- [Polygon_image13.jpg](images/segment_img13.jpg)
+- [Polygon_image14.jpg](images/segment_img14.jpg)
 - 🔗 Full Dataset Download (Google Drive – auto ZIP):  
  https://drive.google.com/drive/folders/1lJnKnHDF3UtTcHAxUa9hTMvTVtsswAC8?usp=drive_link
 
